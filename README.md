@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I am Ngoc-Tu 👋 [![GitHub Followers](https://img.shields.io/github/followers/tucn.svg?style=social&label=Follow)](https://github.com/neogranzeon/)
 
-<!--
-**tucn/tucn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as contractor for Awair 
+- 👯 I’m looking to collaborate on backend team with Go/Python
+- 🤔 I’m looking for further development with frontend (NextJS, JS, and Typescript)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 😎 About Me
+
+- I'm Vietnamese :vietnam:, and currently live in Seoul :kr:
+- I love coding, making coffee and finding new coffee pairing
+
+### 🎓 Education
+- Msc. and PhD. in Electronic Engineering from Soongsil Univesity, Korea
+
+### 📫 How to reach me: https://www.linkedin.com/in/tu-chau-b0b40941/
